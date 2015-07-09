@@ -4,7 +4,7 @@
   sct-production-hosts
 
   Checks which sct hosts (dvssct[0-14]) are currently used in production, meaning
-  scientific cumputing is running.
+  scientific computing is running.
 
   Copyright: 2015 Johannes Lauinger
 """
